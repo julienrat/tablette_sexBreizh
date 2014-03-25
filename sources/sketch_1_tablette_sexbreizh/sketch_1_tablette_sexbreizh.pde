@@ -19,7 +19,7 @@ void setup()
   
   videoView.setVideoPath("/storage/extSdCard/sexbreizh.avi"); // chemin du fichier vidéo (a modifier selon les tablettes...
   videoView.start(); //on demarre la vidéo
-  videoView.seekTo(0); //on rembobie au début
+  videoView.seekTo(0); //on rembobine au début
   delay(1000); //delais necessaire au chargement de la vidéo
   duree_video=videoView.getDuration(); //on récupere la durée de la vidéo
   delay(300); //un delais de 300ms avant la pause
