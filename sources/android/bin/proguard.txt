@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:1
+-keep class processing.test.sketch_1_tablette_sexbreizh.sketch_1_tablette_sexbreizh { <init>(...); }
+
