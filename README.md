@@ -24,5 +24,6 @@ Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
 Usage :
 
-- téléchargez le fichier apk à l'aide de votre smartphone sous android
+- Activez les sources inconnues dans les parametres de votre appareil android
+- téléchargez le fichier apk à l'aide de votre tablette ou smarthone, puis installez celui-ci
 - copiez le fichier sexbreizh.avi sur votre carte microSD, puis insérez celle-ci dans votre tablette_sexBreizh
