@@ -1,3 +1,10 @@
+/*
+Application borne de lecture vidéo 
+sous licence publique générale GNU, (GNU General Public License v3)
+Julien Rat pour l'Association Française des Petits Débrouillards 
+*/
+
+
 //Bibliothèque pour la lecture des vidéos
 import apwidgets.*; 
 APVideoView videoView; 
