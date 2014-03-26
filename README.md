@@ -1,7 +1,8 @@
 tablette_sexBreizh
 ==================
 
-Application borne de lecture vidéo 
+Application borne de lecture vidéo, sources et application compilée pour l'exposition sexBreizh ... 
+
 sous licence publique générale GNU, (GNU General Public License v3)
 Julien Rat pour l'Association Française des Petits Débrouillards 
 
@@ -21,4 +22,7 @@ You should have received a copy of the GNU General Public License
 along with this program; if not, write to the Free Software
 Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
 
-sources et application compilée pour l'exposition sexBreizh ... 
+Usage :
+
+- téléchargez le fichier apk à l'aide de votre smartphone sous android
+- copiez le fichier sexbreizh.avi sur votre carte microSD, puis insérez celle-ci dans votre tablette_sexBreizh
